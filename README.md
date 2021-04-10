@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+```
+       _____________          _____
+       |   ______    \        |   | 
+       |   |     \    \       |   |                  
+       |   |      |    |      |   |                  ______   
+       |   ______/    /       |   |    ___         /   __   \
+       |         _  /         |   |  /   /       /   /    \   \
+       |   |\    \            |   |/   /        |   |      |   |
+       |   |  \    \          |       |         |   |      |   |
+       |   |    \    \        |   |\   \        |   |      |   |
+       _____     \____\       _____  \___\      _____      _____
+```
+
 <!--
 **Rkndros/Rkndros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
